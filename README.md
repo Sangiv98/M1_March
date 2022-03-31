@@ -12,3 +12,7 @@ Project_goal
 
 
 [![CI](https://github.com/Sangiv98/M1_March/actions/workflows/Main.yml/badge.svg)](https://github.com/Sangiv98/M1_March/actions/workflows/Main.yml)
+
+
+ <img src="https://api.codiga.io/public/badge/user/github/Sangiv98?style=light" alt="codiga badge" />
+</a>
