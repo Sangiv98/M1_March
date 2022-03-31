@@ -6,4 +6,5 @@ Project_goal
 
 [![Check - Git Inspector](https://github.com/Sangiv98/M1_March/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sangiv98/M1_March/actions/workflows/gitinspector.yml)
 
+[![C/C++ CI UnitTesting](https://github.com/Sangiv98/M1_March/actions/workflows/U_testing.yml/badge.svg)](https://github.com/Sangiv98/M1_March/actions/workflows/U_testing.yml)
 
