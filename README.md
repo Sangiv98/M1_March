@@ -8,9 +8,6 @@ Project_goal
 
 [![C/C++ CI UnitTesting](https://github.com/Sangiv98/M1_March/actions/workflows/U_testing.yml/badge.svg)](https://github.com/Sangiv98/M1_March/actions/workflows/U_testing.yml)
 
-[![C/C++ CI - Build Status](https://github.com/Anithknb/M1_projectgoal_utility./actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Anithknb/M1_projectgoal_utility./actions/workflows/c-cpp.yml)
-
-
 
 [![CI](https://github.com/Sangiv98/M1_March/actions/workflows/Main.yml/badge.svg)](https://github.com/Sangiv98/M1_March/actions/workflows/Main.yml)
 
