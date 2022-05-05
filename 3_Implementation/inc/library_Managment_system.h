@@ -1,6 +1,6 @@
 /**
  * @file library_Managment_system.h
- * @author Anith K N B
+ * @author Sangiv K R
  * @brief 
  * @version 0.1
  * @date 2022-02-28
